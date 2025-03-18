@@ -36,13 +36,8 @@ I'm an AI and ML enthusiast with a passion for solving real-world problems using
 - Scalable ML deployment using cloud and container technologies
 
 #### 📫 How to reach me:
-- 📧 Email: [Your email here]
-- 🔗 LinkedIn: [Your LinkedIn profile here]
-
-#### 📂 Featured Projects:
-- **Pix2Pix with Custom UNet**: [GitHub repo link]
-- **GAN-based Image Augmentation Pipeline**: [GitHub repo link]
-- **Big Data Pipeline using Hadoop & Spark**: [GitHub repo link]
-- **NLP-based Question Answering with RAG**: [GitHub repo link]
+- 📧 Email1: rajeevg@iitbhilai.ac.in
+- 📧 Email2: rajeev.goel187@gmail.com
+- 🔗 LinkedIn: [https://www.linkedin.com/in/rajeevgoel187/]
 
 #### 🌟 Let's build something impactful together!
